@@ -1,0 +1,264 @@
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_4_fdc947.json
+  eqbench_score_0_100: 57.49
+  avg_response_token_length: 1524.58
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_50pct_cd395c.json
+  eqbench_score_0_100: 41.68
+  avg_response_token_length: 2415.8
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_20pct_keep_I_025354.json
+  eqbench_score_0_100: 60.14
+  avg_response_token_length: 1586.0
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_2pct_keep_I_25b778.json
+  eqbench_score_0_100: 61.13
+  avg_response_token_length: 1556.84
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_10pct_with_T_4f11ae.json
+  eqbench_score_0_100: 69.69
+  avg_response_token_length: 2387.17
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_30I-70T_3a5fcc.json
+  eqbench_score_0_100: 48.56
+  avg_response_token_length: 1480.85
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_10I-90T_777773.json
+  eqbench_score_0_100: 60.52
+  avg_response_token_length: 2467.99
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_3_b8362d.json
+  eqbench_score_0_100: 58.69
+  avg_response_token_length: 1546.89
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_50pct_keep_I_485134.json
+  eqbench_score_0_100: 44.74
+  avg_response_token_length: 1589.54
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_1pct_with_T_9c60bb.json
+  eqbench_score_0_100: 48.49
+  avg_response_token_length: 2195.2
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_10pct_keep_I_4f3606.json
+  eqbench_score_0_100: 48.38
+  avg_response_token_length: 1619.78
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_5pct_with_T_d49e0d.json
+  eqbench_score_0_100: 52.74
+  avg_response_token_length: 2240.81
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_50pct_keep_I_320cd1.json
+  eqbench_score_0_100: 59.74
+  avg_response_token_length: 1612.01
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_10pct_557389.json
+  eqbench_score_0_100: 40.47
+  avg_response_token_length: 1736.25
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_70I-30T_8f8f0b.json
+  eqbench_score_0_100: 43.27
+  avg_response_token_length: 1590.06
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_90I-10T_7dc759.json
+  eqbench_score_0_100: 60.0
+  avg_response_token_length: 1567.64
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_1pct_keep_I_b44992.json
+  eqbench_score_0_100: 60.66
+  avg_response_token_length: 1610.99
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_10pct_f58b22.json
+  eqbench_score_0_100: 58.85
+  avg_response_token_length: 1508.15
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_20pct_with_T_87a7d7.json
+  eqbench_score_0_100: 69.39
+  avg_response_token_length: 2406.48
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_2_9f8c4e.json
+  eqbench_score_0_100: 59.44
+  avg_response_token_length: 1529.14
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_90I-10T_dc1941.json
+  eqbench_score_0_100: 44.96
+  avg_response_token_length: 1621.53
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_2pct_with_T_9d0e90.json
+  eqbench_score_0_100: 50.88
+  avg_response_token_length: 2233.92
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_5_3571cc.json
+  eqbench_score_0_100: 56.08
+  avg_response_token_length: 1506.2
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_70I-30T_94161b.json
+  eqbench_score_0_100: 58.11
+  avg_response_token_length: 1521.76
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_5pct_with_T_7fca75.json
+  eqbench_score_0_100: 66.11
+  avg_response_token_length: 2533.34
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_5pct_keep_I_b5b634.json
+  eqbench_score_0_100: 45.63
+  avg_response_token_length: 1621.38
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_40I-60T_048a32.json
+  eqbench_score_0_100: 38.62
+  avg_response_token_length: 1936.29
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_20pct_92eb71.json
+  eqbench_score_0_100: 56.72
+  avg_response_token_length: 1474.19
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_0I-100T_cc4960.json
+  eqbench_score_0_100: 59.5
+  avg_response_token_length: 2496.01
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_100I-0T_610aca.json
+  eqbench_score_0_100: 60.08
+  avg_response_token_length: 1595.51
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_1_a79aa0.json
+  eqbench_score_0_100: 61.38
+  avg_response_token_length: 1540.57
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_80I-20T_9645fa.json
+  eqbench_score_0_100: 45.44
+  avg_response_token_length: 1581.15
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_30I-70T_1f0cb1.json
+  eqbench_score_0_100: 41.97
+  avg_response_token_length: 2215.58
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_10pct_keep_I_7009ed.json
+  eqbench_score_0_100: 63.59
+  avg_response_token_length: 1581.4
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_20I-80T_a286c8.json
+  eqbench_score_0_100: 43.23
+  avg_response_token_length: 2277.0
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_1pct_keep_I_97ff55.json
+  eqbench_score_0_100: 49.22
+  avg_response_token_length: 1622.79
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_0I-100T_45b22f.json
+  eqbench_score_0_100: 40.27
+  avg_response_token_length: 2294.4
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_2pct_with_T_798151.json
+  eqbench_score_0_100: 55.1
+  avg_response_token_length: 2419.95
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_6_302717.json
+  eqbench_score_0_100: 52.11
+  avg_response_token_length: 1525.36
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_5pct_c21855.json
+  eqbench_score_0_100: 43.97
+  avg_response_token_length: 1721.17
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_8_30d858.json
+  eqbench_score_0_100: 54.2
+  avg_response_token_length: 2021.66
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_20pct_keep_I_da1b84.json
+  eqbench_score_0_100: 47.4
+  avg_response_token_length: 1643.44
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_50pct_with_T_61ee14.json
+  eqbench_score_0_100: 70.17
+  avg_response_token_length: 2420.55
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_avg_override_top_1pct_with_T_c1f247.json
+  eqbench_score_0_100: 52.94
+  avg_response_token_length: 2216.58
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_10pct_with_T_ac38d3.json
+  eqbench_score_0_100: 54.43
+  avg_response_token_length: 2289.14
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_80I-20T_61d8d0.json
+  eqbench_score_0_100: 61.04
+  avg_response_token_length: 1583.14
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_50pct_with_T_08c714.json
+  eqbench_score_0_100: 47.06
+  avg_response_token_length: 2331.58
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_2pct_6447df.json
+  eqbench_score_0_100: 45.81
+  avg_response_token_length: 1605.12
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_50I-50T_5a9b00.json
+  eqbench_score_0_100: 54.9
+  avg_response_token_length: 1515.08
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_7_69962c.json
+  eqbench_score_0_100: 46.6
+  avg_response_token_length: 1465.36
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_top_k_avg_5pct_keep_I_d39a55.json
+  eqbench_score_0_100: 60.41
+  avg_response_token_length: 1562.45
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_20pct_452080.json
+  eqbench_score_0_100: 41.49
+  avg_response_token_length: 2077.32
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_surgical_merge_top_1pct_82f06f.json
+  eqbench_score_0_100: 45.2
+  avg_response_token_length: 1611.11
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_40I-60T_52438d.json
+  eqbench_score_0_100: 52.91
+  avg_response_token_length: 1552.95
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_60I-40T_571f02.json
+  eqbench_score_0_100: 40.82
+  avg_response_token_length: 1568.38
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_avg_override_top_20pct_with_T_30fd2c.json
+  eqbench_score_0_100: 50.38
+  avg_response_token_length: 2305.67
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_1pct_dcd7d8.json
+  eqbench_score_0_100: 61.84
+  avg_response_token_length: 1557.12
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_slerp0_9_fa2fcc.json
+  eqbench_score_0_100: 63.48
+  avg_response_token_length: 2491.02
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_2pct_4169ca.json
+  eqbench_score_0_100: 59.21
+  avg_response_token_length: 1520.8
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_5pct_c2cb2e.json
+  eqbench_score_0_100: 59.48
+  avg_response_token_length: 1538.58
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_10I-90T_cf1809.json
+  eqbench_score_0_100: 42.63
+  avg_response_token_length: 2292.07
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_20I-80T_ab5fce.json
+  eqbench_score_0_100: 54.68
+  avg_response_token_length: 2034.73
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_weighted_avg_60I-40T_5a3f8d.json
+  eqbench_score_0_100: 54.06
+  avg_response_token_length: 1511.32
+------------------------------
+文件名: final_results_Qwen3-30B-A3B-Instruct-2507_Qwen3-30B-A3B-Thinking-2507_surgical_merge_top_50pct_eafe44.json
+  eqbench_score_0_100: 60.83
+  avg_response_token_length: 2410.88
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_top_k_avg_2pct_keep_I_8fafd6.json
+  eqbench_score_0_100: 47.5
+  avg_response_token_length: 1616.68
+------------------------------
+文件名: final_results_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507_weighted_avg_100I-0T_81e23b.json
+  eqbench_score_0_100: 46.2
+  avg_response_token_length: 1650.03
+------------------------------

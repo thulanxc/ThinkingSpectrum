@@ -1,0 +1,108 @@
+Absolute Difference (|Delta|) Percentile Values for Qwen3-4B-Instruct-2507_vs_Qwen3-4B-Thinking-2507
+=======================================================================
+Each line shows the value threshold for a given percentile.
+For example, the 99th percentile is the value v, where 99% of all
+absolute differences are smaller than or equal to v. This is also
+the threshold for the Top 1% largest differences.
+-----------------------------------------------------------------------
+
+100th Percentile: 1.0000000000e+02 (Max difference)
+ 99th Percentile: 1.0000000000e+02 (Threshold for Top 1% largest differences)
+ 98th Percentile: 1.0000000000e+02 (Threshold for Top 2% largest differences)
+ 97th Percentile: 5.4146870971e-03 (Threshold for Top 3% largest differences)
+ 96th Percentile: 4.7650537454e-03 (Threshold for Top 4% largest differences)
+ 95th Percentile: 4.4011315331e-03 (Threshold for Top 5% largest differences)
+ 94th Percentile: 4.1644913144e-03 (Threshold for Top 6% largest differences)
+ 93th Percentile: 3.9134453982e-03 (Threshold for Top 7% largest differences)
+ 92th Percentile: 3.7286975421e-03 (Threshold for Top 8% largest differences)
+ 91th Percentile: 3.6020991392e-03 (Threshold for Top 9% largest differences)
+ 90th Percentile: 3.4202151000e-03 (Threshold for Top 10% largest differences)
+ 89th Percentile: 3.3269955311e-03 (Threshold for Top 11% largest differences)
+ 88th Percentile: 3.1919083558e-03 (Threshold for Top 12% largest differences)
+ 87th Percentile: 3.1481094193e-03 (Threshold for Top 13% largest differences)
+ 86th Percentile: 3.0623062048e-03 (Threshold for Top 14% largest differences)
+ 85th Percentile: 2.9379662592e-03 (Threshold for Top 15% largest differences)
+ 84th Percentile: 2.8777024709e-03 (Threshold for Top 16% largest differences)
+ 83th Percentile: 2.8089554980e-03 (Threshold for Top 17% largest differences)
+ 82th Percentile: 2.6856097393e-03 (Threshold for Top 18% largest differences)
+ 81th Percentile: 2.6856097393e-03 (Threshold for Top 19% largest differences)
+ 80th Percentile: 2.5676803198e-03 (Threshold for Top 20% largest differences)
+ 79th Percentile: 2.5063394569e-03 (Threshold for Top 21% largest differences)
+ 78th Percentile: 2.4464640301e-03 (Threshold for Top 22% largest differences)
+ 77th Percentile: 2.4464640301e-03 (Threshold for Top 23% largest differences)
+ 76th Percentile: 2.3229324725e-03 (Threshold for Top 24% largest differences)
+ 75th Percentile: 2.2910574917e-03 (Threshold for Top 25% largest differences)
+ 74th Percentile: 2.1980330348e-03 (Threshold for Top 26% largest differences)
+ 73th Percentile: 2.1980330348e-03 (Threshold for Top 27% largest differences)
+ 72th Percentile: 2.1381245460e-03 (Threshold for Top 28% largest differences)
+ 71th Percentile: 2.0798488986e-03 (Threshold for Top 29% largest differences)
+ 70th Percentile: 2.0513094496e-03 (Threshold for Top 30% largest differences)
+ 69th Percentile: 1.9544705283e-03 (Threshold for Top 31% largest differences)
+ 68th Percentile: 1.9544705283e-03 (Threshold for Top 32% largest differences)
+ 67th Percentile: 1.9544705283e-03 (Threshold for Top 33% largest differences)
+ 66th Percentile: 1.8816005904e-03 (Threshold for Top 34% largest differences)
+ 65th Percentile: 1.8366499571e-03 (Threshold for Top 35% largest differences)
+ 64th Percentile: 1.7742911587e-03 (Threshold for Top 36% largest differences)
+ 63th Percentile: 1.7140497221e-03 (Threshold for Top 37% largest differences)
+ 62th Percentile: 1.7140497221e-03 (Threshold for Top 38% largest differences)
+ 61th Percentile: 1.7140497221e-03 (Threshold for Top 39% largest differences)
+ 60th Percentile: 1.6501436476e-03 (Threshold for Top 40% largest differences)
+ 59th Percentile: 1.5886202455e-03 (Threshold for Top 41% largest differences)
+ 58th Percentile: 1.5886202455e-03 (Threshold for Top 42% largest differences)
+ 57th Percentile: 1.5293906908e-03 (Threshold for Top 43% largest differences)
+ 56th Percentile: 1.4672923135e-03 (Threshold for Top 44% largest differences)
+ 55th Percentile: 1.4672923135e-03 (Threshold for Top 45% largest differences)
+ 54th Percentile: 1.4672923135e-03 (Threshold for Top 46% largest differences)
+ 53th Percentile: 1.4077153755e-03 (Threshold for Top 47% largest differences)
+ 52th Percentile: 1.3459003530e-03 (Threshold for Top 48% largest differences)
+ 51th Percentile: 1.3459003530e-03 (Threshold for Top 49% largest differences)
+ 50th Percentile: 1.2823625002e-03 (Median difference)
+ 49th Percentile: 1.2388231698e-03 
+ 48th Percentile: 1.2218240881e-03 
+ 47th Percentile: 1.2218240881e-03 
+ 46th Percentile: 1.2218240881e-03 
+ 45th Percentile: 1.1601294391e-03 
+ 44th Percentile: 1.1015499476e-03 
+ 43th Percentile: 1.1015499476e-03 
+ 42th Percentile: 1.0531791486e-03 
+ 41th Percentile: 1.0104165412e-03 
+ 40th Percentile: 9.7948790062e-04 
+ 39th Percentile: 9.7948790062e-04 
+ 38th Percentile: 9.7948790062e-04 
+ 37th Percentile: 9.4623194309e-04 
+ 36th Percentile: 9.1095297830e-04 
+ 35th Percentile: 8.5603841580e-04 
+ 34th Percentile: 8.5603841580e-04 
+ 33th Percentile: 8.1844837405e-04 
+ 32th Percentile: 7.7981071081e-04 
+ 31th Percentile: 7.3280173820e-04 
+ 30th Percentile: 7.3280173820e-04 
+ 29th Percentile: 7.3280173820e-04 
+ 28th Percentile: 7.3027488543e-04 
+ 27th Percentile: 6.7217560718e-04 
+ 26th Percentile: 6.1232037842e-04 
+ 25th Percentile: 6.1232037842e-04 
+ 24th Percentile: 6.1232037842e-04 
+ 23th Percentile: 5.5014103418e-04 
+ 22th Percentile: 5.2056100685e-04 
+ 21th Percentile: 4.8918026732e-04 
+ 20th Percentile: 4.8918026732e-04 
+ 19th Percentile: 4.8918026732e-04 
+ 18th Percentile: 4.8918026732e-04 
+ 17th Percentile: 4.2752656736e-04 
+ 16th Percentile: 3.9761242806e-04 
+ 15th Percentile: 3.6724552047e-04 
+ 14th Percentile: 3.6724552047e-04 
+ 13th Percentile: 3.3570095547e-04 
+ 12th Percentile: 3.0580780003e-04 
+ 11th Percentile: 2.4430861231e-04 
+ 10th Percentile: 2.4430861231e-04 
+  9th Percentile: 2.4430861231e-04 
+  8th Percentile: 2.4430861231e-04 
+  7th Percentile: 2.1425605519e-04 
+  6th Percentile: 1.8341140822e-04 
+  5th Percentile: 1.3769364159e-04 
+  4th Percentile: 1.2243590027e-04 
+  3th Percentile: 1.2243590027e-04 
+  2th Percentile: 9.1600151791e-05 
+  1th Percentile: 6.1147489760e-05 

@@ -1,0 +1,26 @@
+Evaluation Summary - 2025-09-13 19:56:06
+================================================================================
+Model Results: outputs/Qwen/Qwen3-4B-Instruct-2507
+  - File: math_eval/gpqa_diamond/test_qwen25-math-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  59.85% ( 237/396 ), Avg Tokens: 4960
+  - File: math_eval/gpqa_diamond/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  60.61% ( 240/396 ), Avg Tokens: 5178
+  - File: math_eval/gpqa_diamond/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  60.20% (1192/1980), Avg Tokens: 5306
+  - File: math_eval/aime24/test_qwen25-math-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  59.33% ( 178/300 ), Avg Tokens: 9214
+  - File: math_eval/aime24/test_qwen25-math-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  58.67% ( 176/300 ), Avg Tokens: 10025
+  - File: math_eval/aime24/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  61.33% ( 184/300 ), Avg Tokens: 8629
+  - File: math_eval/aime24/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  60.05% (1153/1920), Avg Tokens: 8984
+  - File: math_eval/aime25/test_qwen25-math-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  47.00% ( 141/300 ), Avg Tokens: 8152
+  - File: math_eval/aime25/test_qwen25-math-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  44.33% ( 133/300 ), Avg Tokens: 8144
+  - File: math_eval/aime25/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  46.00% ( 138/300 ), Avg Tokens: 8164
+  - File: math_eval/aime25/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  44.38% ( 852/1920), Avg Tokens: 8085
+
+Model Results: outputs/models/simple_averaged_Qwen3-4B-Instruct-2507_Qwen3-4B-Thinking-2507
+  - File: math_eval/gpqa_diamond/test_qwen25-math-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  64.14% ( 254/396 ), Avg Tokens: 5537
+  - File: math_eval/gpqa_diamond/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  65.15% ( 258/396 ), Avg Tokens: 5401
+  - File: math_eval/gpqa_diamond/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  62.58% (1239/1980), Avg Tokens: 5486
+  - File: math_eval/aime24/test_qwen25-math-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  71.33% ( 214/300 ), Avg Tokens: 7544
+  - File: math_eval/aime24/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  72.67% ( 218/300 ), Avg Tokens: 7555
+  - File: math_eval/aime24/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  70.16% (1347/1920), Avg Tokens: 7354
+  - File: math_eval/aime25/test_qwen25-math-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  56.00% ( 168/300 ), Avg Tokens: 7723
+  - File: math_eval/aime25/test_qwen25-no-cot_-1_seed0_t0.6_s0_e-1.jsonl | Accuracy:  55.00% ( 165/300 ), Avg Tokens: 7202
+  - File: math_eval/aime25/test_qwen25-no-cot_-1_seed0_t0.7_s0_e-1.jsonl | Accuracy:  55.21% (1060/1920), Avg Tokens: 7457
+

@@ -1,0 +1,18 @@
+{
+    "model_A": {
+        "L1_Norm": 566103593.8286281,
+        "L2_Norm_Energy_Sqrt": 4134.366932528638
+    },
+    "model_B": {
+        "L1_Norm": 565935458.2131672,
+        "L2_Norm_Energy_Sqrt": 4133.165079681932
+    },
+    "delta_diff": {
+        "L1_Norm": 21533019.77691698,
+        "L2_Norm_Energy_Sqrt": 156.34715996207535
+    },
+    "relative_change_vs_model_A": {
+        "relative_L1_change": "3.8037%",
+        "relative_L2_change": "3.7816%"
+    }
+}

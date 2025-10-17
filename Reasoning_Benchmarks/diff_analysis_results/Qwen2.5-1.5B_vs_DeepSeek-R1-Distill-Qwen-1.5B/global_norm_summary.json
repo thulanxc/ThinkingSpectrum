@@ -1,0 +1,18 @@
+{
+    "model_A_instruct": {
+        "L1_Norm": 38485360.63316679,
+        "L2_Norm_Energy": 1688.7217330982685
+    },
+    "model_B_thinking": {
+        "L1_Norm": 51325332.02707338,
+        "L2_Norm_Energy": 2258.077181831841
+    },
+    "delta_diff": {
+        "L1_Norm": 57576093.27486229,
+        "L2_Norm_Energy": 1845.2011924752364
+    },
+    "relative_change_vs_instruct_model": {
+        "relative_L1_change": "149.6052%",
+        "relative_L2_change": "109.2661%"
+    }
+}
